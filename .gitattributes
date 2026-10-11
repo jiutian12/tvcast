@@ -1,0 +1,8 @@
+# 源码统一 LF，避免跨平台换行符抖动
+* text=auto eol=lf
+
+# 二进制别碰
+*.exe binary
+*.png binary
+*.jpg binary
+*.ico binary

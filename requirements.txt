@@ -1,0 +1,4 @@
+pychromecast>=14.0.0
+zeroconf>=0.131.0
+qrcode>=7.4
+pyinstaller>=6.6.0
